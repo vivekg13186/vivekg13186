@@ -52,6 +52,36 @@ A compact, dependency-free rule engine that runs in the browser — JSON-style r
 
 ---
 
+## 🏆 Hackathon Projects
+
+Built for the **Build Small Hackathon** — small models doing real work, fully offline where possible.
+
+### 💊 [PillPal](https://github.com/vivekg13186/pillpal)
+
+Photograph a pill bottle and get a clear daily medication schedule plus a refill alert. A **MiniCPM-V** vision model reads the label into JSON; all the trust-critical scheduling and run-out math is deterministic, testable Python. *(Backyard AI track.)* — *Python · Gradio · MiniCPM-V*
+
+<a href="https://youtu.be/Qx64AinZyKM"><img src="https://img.youtube.com/vi/Qx64AinZyKM/maxresdefault.jpg" width="600" alt="PillPal"></a>
+
+▶️ [Live demo](https://huggingface.co/spaces/build-small-hackathon/pillpal) · 🔗 [Repository](https://github.com/vivekg13186/pillpal) · 🎬 [Video](https://youtu.be/Qx64AinZyKM)
+
+### 🔮 [The Oracle](https://github.com/vivekg13186/oracle)
+
+An Akinator-style guessing game — think of an animal, fruit, or vegetable and the Oracle narrows it down with yes/no questions. A deterministic engine does the deduction over an attribute database while a tiny **Llama 3.2** model only phrases the questions, so it runs fully offline. *(Thousand Token Wood track.)* — *Python · Gradio · llama.cpp*
+
+<a href="https://youtu.be/U5UNzHBfJ1k"><img src="https://img.youtube.com/vi/U5UNzHBfJ1k/maxresdefault.jpg" width="600" alt="The Oracle"></a>
+
+▶️ [Live demo](https://huggingface.co/spaces/build-small-hackathon/oracle) · 🔗 [Repository](https://github.com/vivekg13186/oracle) · 🎬 [Video](https://youtu.be/U5UNzHBfJ1k)
+
+### 🌳 [Heartwood](https://github.com/vivekg13186/heartwood)
+
+A cozy pixel village where a tiny **Llama 3.2 1B** model is the game master. Each villager guards a treasure and wants something from the heart — cheer me up, flatter me, make me laugh — and you win them over in free text while the model judges, in character, whether you succeeded. Deterministic game state, LLM language and judgement; runs offline. *(Thousand Token Wood track.)* — *JavaScript · Python · Phaser · llama.cpp*
+
+<a href="https://youtu.be/BjoZKTrLSNU"><img src="https://img.youtube.com/vi/BjoZKTrLSNU/maxresdefault.jpg" width="600" alt="Heartwood"></a>
+
+▶️ [Live demo](https://huggingface.co/spaces/build-small-hackathon/heartwood) · 🔗 [Repository](https://github.com/vivekg13186/heartwood) · 🎬 [Video](https://youtu.be/BjoZKTrLSNU)
+
+---
+
 ## 📦 Archived Projects
 
 ### [hippo-bpm](https://github.com/vivekg13186/hippo-bpm)
