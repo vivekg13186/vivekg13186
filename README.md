@@ -9,7 +9,13 @@ I build developer tools and BPM/workflow tooling. A tour of my projects is below
 
 ## 🚀 Applications
 
-### 🌼 [daisy-engine](https://github.com/daisy-workflow/daisy-engine) — AI orchestration platform &nbsp;`new`
+### [nbt](https://github.com/vivekg13186/nbt)
+
+NBT (Node Based Tester) — a web-based visual node editor for building, saving and running test flows, with a CLI, a VS Code extension, fan-out, triggers and cron scheduling. — *Python · React · FastAPI · SQLite*
+
+---
+
+### 🌼 [daisy-engine](https://github.com/daisy-workflow/daisy-engine) — AI orchestration platform 
 
 Daisy AI Orchestrator is an AI orchestration platform built around a visual editor and a typed DSL. The runtime executes directed acyclic graphs (DAGs) of plugin actions with parallel execution, retries and batch fan-out, evaluates FEEL expressions, protects credentials with KMS envelope encryption, and ships OIDC auth plus audit/observability signals. One-command Docker Compose quick start.
 
@@ -17,11 +23,6 @@ Daisy AI Orchestrator is an AI orchestration platform built around a visual edit
 
 🔗 [Repository](https://github.com/daisy-workflow/daisy-engine) · 📖 [Wiki](https://github.com/daisy-workflow/daisy-engine/wiki) — *JavaScript · Vue · Docker*
 
----
-
-### [nbt](https://github.com/vivekg13186/nbt)
-
-NBT (Node Based Tester) — a web-based visual node editor for building, saving and running test flows, with a CLI, a VS Code extension, fan-out, triggers and cron scheduling. — *Python · React · FastAPI · SQLite*
 
 ### [shuttle](https://github.com/vivekg13186/shuttle)
 
