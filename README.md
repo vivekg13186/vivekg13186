@@ -38,5 +38,5 @@ I build developer tools and BPM/workflow tooling. A tour of my projects is below
 | **[vscode_tabluator_css](https://github.com/vivekg13186/vscode_tabluator_css)** | A Tabulator CSS theme for styling grids inside VS Code webview widgets. | CSS |
 | **[JavaBusinessCalendar](https://github.com/vivekg13186/JavaBusinessCalendar)** | A Java business-calendar library (based on jBPM's) for holiday and working-hour checks plus date/timezone helpers. | Java |
 | **[Snake-Game](https://github.com/vivekg13186/Snake-Game)** | A classic Snake game with Marathon and Sprint modes; released on itch.io. | Python · pygame |
-| **[otter-http-client](https://github.com/vivekg13186/otter-http-client)** | An HTTP client project. *(No README or description published.)* | — |
+| **[otter-http-client](https://github.com/vivekg13186/otter-http-client)** | A vs code HTTP client project. | — |
 | **[casper](https://github.com/vivekg13186/casper)** | A Java project automatically exported from Google Code (code.google.com/p/casper). | Java |
