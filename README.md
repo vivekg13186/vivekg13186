@@ -7,21 +7,21 @@ I build developer tools and BPM/workflow tooling. A tour of my projects is below
 
 ---
 
+## Web App
+### [banana-cad](https://banana-cad.com/)
+
+<a href="https://banana-cad.com"><img src="banana-cad.png" width="600" alt="logster"></a>
+
 ## 🚀 Applications
 
-### [nbt](https://github.com/vivekg13186/nbt)
 
-NBT (Node Based Tester) — a web-based visual node editor for building, saving and running test flows, with a CLI, a VS Code extension, fan-out, triggers and cron scheduling. — *Python · React · FastAPI · SQLite*
+### [codeflow](https://github.com/vivekg13186/code-flow)
+A tiny annotation-based workflow engine in Python with a web UI.
 
----
+<a href="https://github.com/vivekg13186/code-flow"><img src="code-flow.png" width="600" alt="logster"></a>
 
-### 🌼 [daisy-engine](https://github.com/daisy-workflow/daisy-engine) — AI orchestration platform 
-
-Daisy AI Orchestrator is an AI orchestration platform built around a visual editor and a typed DSL. The runtime executes directed acyclic graphs (DAGs) of plugin actions with parallel execution, retries and batch fan-out, evaluates FEEL expressions, protects credentials with KMS envelope encryption, and ships OIDC auth plus audit/observability signals. One-command Docker Compose quick start.
-
-<a href="https://github.com/daisy-workflow/daisy-engine"><img src="https://github.com/daisy-workflow/daisy-engine/raw/main/screenshots/workflows.png" width="600" alt="Daisy workflows"></a>
-
-🔗 [Repository](https://github.com/daisy-workflow/daisy-engine) · 📖 [Wiki](https://github.com/daisy-workflow/daisy-engine/wiki) — *JavaScript · Vue · Docker*
+### [block-sandbox](https://github.com/vivekg13186/block-sandbox)
+Build automations out of Scratch-style blocks (Blockly), and Block Sandbox generates and runs the equivalent Python for you. It's a React + TypeScript UI served by a small Python (FastAPI) backend — everything runs locally.
 
 
 ### [shuttle](https://github.com/vivekg13186/shuttle)
@@ -32,23 +32,6 @@ Runs plain JavaScript on the Duktape engine, adding a batteries-included standar
 
 `z` — a tiny (<5 MB) Lisp-flavoured scripting language and tree-walking interpreter in single-file C99, with a rich stdlib and a notebook-style enhanced REPL (`zide`). Builds on macOS, Linux and Windows. — *C*
 
-### [notepad](https://github.com/vivekg13186/notepad)
-
-A lightweight, keyboard-first desktop text editor with NeoVim-style modal editing, TextMate syntax highlighting, and JSON-based themes and snippets. — *C · Raylib*
-
-<a href="https://github.com/vivekg13186/notepad"><img src="https://github.com/vivekg13186/notepad/raw/main/screenshots/main.png" width="600" alt="notepad"></a>
-
-### [sparrow](https://github.com/vivekg13186/sparrow) — smart code editor
-
-A lightweight desktop notepad with multi-tab editing, Markdown/CSV/image preview, built-in terminals, an HTTP client, a Git browser and AI assist. — *Tauri · Vue · Monaco · Rust*
-
-<a href="https://github.com/vivekg13186/sparrow"><img src="https://github.com/vivekg13186/sparrow/raw/main/screenshot/2column.png" width="600" alt="sparrow"></a>
-
-⬇️ [Download](https://github.com/vivekg13186/sparrow/releases/latest)
-
-### [rulez](https://github.com/vivekg13186/rulez)
-
-A compact, dependency-free rule engine that runs in the browser — JSON-style rule tables, Rete-like evaluation, caching and execution tracing. — *JavaScript*
 
 ---
 
@@ -84,6 +67,40 @@ A cozy pixel village where a tiny **Llama 3.2 1B** model is the game master. Eac
 
 ## 📦 Archived Projects
 
+### [nbt](https://github.com/vivekg13186/nbt)
+
+NBT (Node Based Tester) — a web-based visual node editor for building, saving and running test flows, with a CLI, a VS Code extension, fan-out, triggers and cron scheduling. — *Python · React · FastAPI · SQLite*
+
+---
+
+### 🌼 [daisy-engine](https://github.com/daisy-workflow/daisy-engine) — AI orchestration platform 
+
+Daisy AI Orchestrator is an AI orchestration platform built around a visual editor and a typed DSL. The runtime executes directed acyclic graphs (DAGs) of plugin actions with parallel execution, retries and batch fan-out, evaluates FEEL expressions, protects credentials with KMS envelope encryption, and ships OIDC auth plus audit/observability signals. One-command Docker Compose quick start.
+
+<a href="https://github.com/daisy-workflow/daisy-engine"><img src="https://github.com/daisy-workflow/daisy-engine/raw/main/screenshots/workflows.png" width="600" alt="Daisy workflows"></a>
+
+🔗 [Repository](https://github.com/daisy-workflow/daisy-engine) · 📖 [Wiki](https://github.com/daisy-workflow/daisy-engine/wiki) — *JavaScript · Vue · Docker*
+
+### [notepad](https://github.com/vivekg13186/notepad)
+
+A lightweight, keyboard-first desktop text editor with NeoVim-style modal editing, TextMate syntax highlighting, and JSON-based themes and snippets. — *C · Raylib*
+
+<a href="https://github.com/vivekg13186/notepad"><img src="https://github.com/vivekg13186/notepad/raw/main/screenshots/main.png" width="600" alt="notepad"></a>
+
+### [sparrow](https://github.com/vivekg13186/sparrow) — smart code editor
+
+A lightweight desktop notepad with multi-tab editing, Markdown/CSV/image preview, built-in terminals, an HTTP client, a Git browser and AI assist. — *Tauri · Vue · Monaco · Rust*
+
+<a href="https://github.com/vivekg13186/sparrow"><img src="https://github.com/vivekg13186/sparrow/raw/main/screenshot/2column.png" width="600" alt="sparrow"></a>
+
+⬇️ [Download](https://github.com/vivekg13186/sparrow/releases/latest)
+
+### [rulez](https://github.com/vivekg13186/rulez)
+
+A compact, dependency-free rule engine that runs in the browser — JSON-style rule tables, Rete-like evaluation, caching and execution tracing. — *JavaScript*
+
+
+
 ### [hippo-bpm](https://github.com/vivekg13186/hippo-bpm)
 
 Hippo DevTools — an all-in-one desktop app for developing, testing and managing IBM BAW apps (traditional & Cloud Pak): snapshots, toolkit dependencies, test services and multi-environment comparison. — *Go · Wails · JavaScript*
@@ -111,6 +128,10 @@ A Scratch-style block-programming 3D modelling app, designed to simplify 3D mode
 ---
 
 ### More archived projects
+
+
+
+
 
 | Project | Summary | Built with |
 | --- | --- | --- |
