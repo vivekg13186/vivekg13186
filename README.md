@@ -23,6 +23,8 @@ A tiny annotation-based workflow engine in Python with a web UI.
 ### [block-sandbox](https://github.com/vivekg13186/block-sandbox)
 Build automations out of Scratch-style blocks (Blockly), and Block Sandbox generates and runs the equivalent Python for you. It's a React + TypeScript UI served by a small Python (FastAPI) backend — everything runs locally.
 
+<a href="https://github.com/vivekg13186/block-sandbox"><img src="block-sandbox.png" width="600" alt="logster"></a>
+
 
 ### [shuttle](https://github.com/vivekg13186/shuttle)
 
