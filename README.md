@@ -26,9 +26,9 @@ Build automations out of Scratch-style blocks (Blockly), and Block Sandbox gener
 <a href="https://github.com/vivekg13186/block-sandbox"><img src="block-sandbox.png" width="600" alt="logster"></a>
 
 
-### [shuttle](https://github.com/vivekg13186/shuttle)
+### [y](https://github.com/vivekg13186/y)
 
-Runs plain JavaScript on the Duktape engine, adding a batteries-included standard library — file I/O, shell, HTTP, SQLite, HTML/XML, CSV, crypto, images/OCR — borrowed from the `z` language. — *C · JavaScript*
+A compact scripting language: a small subset of JavaScript, implemented as a single-file C99 tree-walking interpreter (y.c) with duck-typed values and no dependencies beyond the C standard library. Sibling of z, which served as the design reference.
 
 ### [z-lang](https://github.com/vivekg13186/z-lang)
 
